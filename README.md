@@ -1,1 +1,1 @@
-# hardcode
+hardcoded secret scanner with python
